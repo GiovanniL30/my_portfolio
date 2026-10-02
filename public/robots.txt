@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://giovanni.upsertsolution.com/sitemap.xml
+Sitemap: https://portfolio.gl3o.me/sitemap.xml
